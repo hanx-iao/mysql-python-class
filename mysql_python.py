@@ -1,8 +1,14 @@
+'''
+This is a python ORM
+'''
+
 import re
 import os
 import glob
 import mysql.connector
 import datetime
+
+
 
 
 class Connect():
